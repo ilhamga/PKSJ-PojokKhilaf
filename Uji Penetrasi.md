@@ -18,15 +18,14 @@ Laporan Tugas 1 PKSJ : Uji Penetrasi
   7. Atur ukuran harddisk virtual
   8. Klik kanan pada virtualisasi yang dibuat, pilih pengaturan
   9. Pilih tab storage, klik controller, lalu centang Live CD/DVD dan klik gambar disket untuk memilih ISO File yang sesuai (Kali Linux/Ubuntu Server), klik OK
-![alt text](http://cdn.htpcbeginner.com/images/2015/07/setup-ubuntu-on-virtualbox-load-iso-500x233.jpg)
   10. Pilih virtualisasi yang dibuat, lalu klik start
   11. Menjalani instalasi di dalam virtual linux
   * Ubuntu Server SSH
-   1. Pilih SSH Server lalu Enter
+      1. Pilih SSH Server lalu Enter
 3. Uji Penetrasi 1
-  * THC-Hydra
-   1. Cek IP Address dari kedua komputer
-   2. Jalankan hydra dengan perintah
-   3. Selesai
+    * THC-Hydra
+      1. Cek IP Address dari kedua komputer
+      2. Jalankan hydra dengan perintah
+      3. Selesai
 4. Uji Penetrasi 2
   * fail2ban
