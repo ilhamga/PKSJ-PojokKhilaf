@@ -9,9 +9,18 @@ Laporan Tugas 1 PKSJ : Uji Penetrasi
  * Hydra
  * fail2ban
 2. Instalasi
-  * Kali Linux
-  * Ubuntu Server
+  * Kali Linux dan Ubuntu
    1.Klik Baru
+   2.Pilih Tipe : Linux dan Versi : Ubuntu 64-bit, klik lanjut
+   3.Pilih ukuran RAM, klik lanjut
+   4.Pilih buat harddisk virtual, klik buat
+   5.Pilih VDI, klik lanjut
+   6.Pilih alokasi dinamis, klik lanjut
+   7.Atur ukuran harddisk virtual
+   8.Klik kanan pada virtualisasi yang dibuat, pilih pengaturan
+   9.Pilih tab storage, klik controller, lalu centang Live CD/DVD dan klik gambar disket untuk memilih ISO File yang sesuai (Kali Linux/Ubuntu Server), klik OK
+![alt text](http://cdn.htpcbeginner.com/images/2015/07/setup-ubuntu-on-virtualbox-load-iso-500x233.jpg)
+   10. Pilih virtualisasi yang dibuat, lalu klik start
     * Ubuntu Server SSH
      1. Pilih SSH Server lalu Enter
 3. Uji Penetrasi 1
