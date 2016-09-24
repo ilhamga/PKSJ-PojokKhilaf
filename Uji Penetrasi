@@ -1,1 +1,13 @@
 
+Laporan Tugas 1 PKSJ : Uji Penetrasi
+------------------------------------
+
+1. Teori
+2. Instalasi
+  * Kali Linux
+  * Ubuntu Server
+    * Ubuntu Server SSH
+3. Uji Penetrasi 1
+  * THC-Hydra
+4. Uji Penetrasi 2
+  * fail2ban
